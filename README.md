@@ -1,5 +1,7 @@
 # Sign_Detection_1
 
+RAW nézetben kell megnézni, hogy megfelelően lássuk a filerendszer felépítését
+
 Itt a VGGA16-os modellt alakítottam át úgy, hogy az felismerje az én általam kiválasztott képeket és 'bounding boxokat' rajzol köré.
 
 Ahhoz, hogy működjön egy megadott fájl elrendezésben kell betölteni az adott fileokat:
